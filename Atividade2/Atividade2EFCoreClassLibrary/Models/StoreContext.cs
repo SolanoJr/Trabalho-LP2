@@ -18,21 +18,9 @@ namespace Atividade2EFCoreClassLibrary.Models
         public DbSet<Solicitacao> Solicitacoes { get; set; }
         public DbSet<ClienteSolicitacao> ClienteSolicitacoes { get; set; }
 
-        private static IConfigurationRoot Configuration;
-
-        public StoreContext()
-        {
-            var builder = new ConfigurationBuilder()
-            .SetBasePath(Directory.GetCurrentDirectory())
-            .AddJsonFile("appsettings.json");
-
-            Configuration = builder.Build();
-        }
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var connection = (Configuration.GetConnectionString("StoreDB"));
-            optionsBuilder.UseSqlServer(connection);
+            optionsBuilder.UseSqlite("Data Source=store.db");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

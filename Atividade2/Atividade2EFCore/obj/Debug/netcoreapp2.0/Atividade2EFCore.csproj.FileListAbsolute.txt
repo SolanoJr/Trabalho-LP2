@@ -25,3 +25,17 @@ C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade2\Atividade2EFC
 C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.csproj.CopyComplete
 C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.dll
 C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.pdb
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.deps.json
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.runtimeconfig.json
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.runtimeconfig.dev.json
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.dll
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCore.pdb
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.dll
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.0\Atividade2EFCoreClassLibrary.pdb
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.csprojAssemblyReference.cache
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.csproj.CoreCompileInputs.cache
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.AssemblyInfoInputs.cache
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.AssemblyInfo.cs
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.csproj.CopyComplete
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.dll
+C:\Users\ACER GAMER\Desktop\Trabalho-LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.0\Atividade2EFCore.pdb

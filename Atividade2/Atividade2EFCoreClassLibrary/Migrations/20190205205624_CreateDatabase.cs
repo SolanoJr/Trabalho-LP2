@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
+﻿using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 using System.Collections.Generic;
 
@@ -14,7 +13,7 @@ namespace Atividade2EFCoreClassLibrary.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("Sqlite:Autoincrement", true),
                     Nome = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
@@ -27,7 +26,7 @@ namespace Atividade2EFCoreClassLibrary.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("Sqlite:Autoincrement", true),
                     BancoId = table.Column<int>(nullable: false),
                     Numero = table.Column<int>(nullable: false)
                 },
@@ -47,7 +46,7 @@ namespace Atividade2EFCoreClassLibrary.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("Sqlite:Autoincrement", true),
                     AgenciaId = table.Column<int>(nullable: false),
                     ClienteId = table.Column<int>(nullable: false),
                     Discriminator = table.Column<string>(nullable: false),
@@ -69,7 +68,7 @@ namespace Atividade2EFCoreClassLibrary.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("Sqlite:Autoincrement", true),
                     AgenciaId = table.Column<int>(nullable: false),
                     Text = table.Column<string>(maxLength: 50, nullable: true)
                 },
@@ -89,7 +88,7 @@ namespace Atividade2EFCoreClassLibrary.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("Sqlite:Autoincrement", true),
                     ContaId = table.Column<int>(nullable: true),
                     Nome = table.Column<string>(nullable: true)
                 },
