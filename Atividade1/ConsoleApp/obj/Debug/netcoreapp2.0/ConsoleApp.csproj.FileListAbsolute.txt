@@ -1,0 +1,27 @@
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\Atividade1POO.pdb
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\Alberto Zaranza\source\repos\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\bin\Debug\netcoreapp2.0\Atividade1POO.pdb
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CopyComplete
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb

@@ -1,0 +1,18 @@
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.deps.json
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.pdb
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfo.cs
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.pdb
+C:\Users\Alberto Zaranza\source\repos\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csprojResolveAssemblyReference.cache
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.deps.json
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.0\Atividade1POO.pdb
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csprojAssemblyReference.cache
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfoInputs.cache
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.AssemblyInfo.cs
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.dll
+C:\Users\ACER GAMER\Desktop\LP2-master Alberto\08022018\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.0\Atividade1POO.pdb
