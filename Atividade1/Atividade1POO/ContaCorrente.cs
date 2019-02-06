@@ -6,7 +6,7 @@ namespace Atividade1POO
 {
     public class ContaCorrente : Conta
     {
-        public const decimal Taxa = 0.10M;
+        public const decimal taxa = 0.10M;
 
         public ContaCorrente(string t) : base(t)
         {
@@ -15,19 +15,19 @@ namespace Atividade1POO
 
         public override void Depositar(decimal valor)
         {
-            decimal desconto = valor * Taxa;
+            decimal desconto = valor * taxa;
             base.Depositar(valor - desconto);
         }
 
         public override void Sacar(decimal valor)
         {
-            decimal desconto = valor * Taxa;
+            decimal desconto = valor * taxa;
             base.Sacar(valor + desconto);
         }
 
         public override string Id
         {
-            get { return Titular + " (CC)"; }
+            get { return Titular + " cc)"; }
         }
     }
 }

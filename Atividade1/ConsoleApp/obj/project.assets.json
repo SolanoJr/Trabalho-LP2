@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER GAMER\\Desktop\\LP2-master Alberto\\08022018\\Atividade1\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\ACER GAMER\\Desktop\\Trabalho-LP2\\Atividade1\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\ACER GAMER\\Desktop\\LP2-master Alberto\\08022018\\Atividade1\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\ACER GAMER\\Desktop\\Trabalho-LP2\\Atividade1\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\ACER GAMER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER GAMER\\Desktop\\LP2-master Alberto\\08022018\\Atividade1\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\ACER GAMER\\Desktop\\Trabalho-LP2\\Atividade1\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -711,8 +711,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\ACER GAMER\\Desktop\\LP2-master Alberto\\08022018\\Atividade1\\Atividade1POO\\Atividade1POO.csproj": {
-              "projectPath": "C:\\Users\\ACER GAMER\\Desktop\\LP2-master Alberto\\08022018\\Atividade1\\Atividade1POO\\Atividade1POO.csproj"
+            "C:\\Users\\ACER GAMER\\Desktop\\Trabalho-LP2\\Atividade1\\Atividade1POO\\Atividade1POO.csproj": {
+              "projectPath": "C:\\Users\\ACER GAMER\\Desktop\\Trabalho-LP2\\Atividade1\\Atividade1POO\\Atividade1POO.csproj"
             }
           }
         }

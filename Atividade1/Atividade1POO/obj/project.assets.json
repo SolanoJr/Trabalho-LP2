@@ -672,11 +672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER GAMER\\Desktop\\LP2-master Alberto\\08022018\\Atividade1\\Atividade1POO\\Atividade1.csproj",
-      "projectName": "Atividade1",
-      "projectPath": "C:\\Users\\ACER GAMER\\Desktop\\LP2-master Alberto\\08022018\\Atividade1\\Atividade1POO\\Atividade1.csproj",
+      "projectUniqueName": "C:\\Users\\ACER GAMER\\Desktop\\Trabalho-LP2\\Atividade1\\Atividade1POO\\Atividade1POO.csproj",
+      "projectName": "Atividade1POO",
+      "projectPath": "C:\\Users\\ACER GAMER\\Desktop\\Trabalho-LP2\\Atividade1\\Atividade1POO\\Atividade1POO.csproj",
       "packagesPath": "C:\\Users\\ACER GAMER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER GAMER\\Desktop\\LP2-master Alberto\\08022018\\Atividade1\\Atividade1POO\\obj\\",
+      "outputPath": "C:\\Users\\ACER GAMER\\Desktop\\Trabalho-LP2\\Atividade1\\Atividade1POO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

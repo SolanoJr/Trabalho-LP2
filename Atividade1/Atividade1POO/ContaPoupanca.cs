@@ -38,7 +38,7 @@ namespace Atividade1POO
 
         public override string Id
         {
-            get { return Titular + " (CP)"; }
+            get { return Titular + " (cp)"; }
         }
     }
 }

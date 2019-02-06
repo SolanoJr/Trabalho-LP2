@@ -7,7 +7,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Informe o nome do titular:");
+            Console.WriteLine("Digite o titular:");
             var titular = Convert.ToString(Console.ReadLine());
 
             DateTime dateTime = DateTime.Now;
@@ -17,9 +17,9 @@ namespace ConsoleApp
 
             while (true)
             {
-                Console.WriteLine("Escolha uma opção: ");
-                Console.WriteLine("1 - Conta Poupança (CP)");
-                Console.WriteLine("2 - Conta Corrente (CC)");
+                Console.WriteLine("Digite um Número para acessar: ");
+                Console.WriteLine("1 - Conta Poupança (cp)");
+                Console.WriteLine("2 - Conta Corrente (cc)");
                 Console.WriteLine("0 - Sair");
 
                 var tipoConta = Convert.ToInt16(Console.ReadLine());
@@ -28,7 +28,6 @@ namespace ConsoleApp
                 {
                     while (true)
                     {
-                        Console.WriteLine("Escolha uma opção: ");
                         Console.WriteLine("1 - Sacar");
                         Console.WriteLine("2 - Depositar");
                         Console.WriteLine("3 - Saldo");
@@ -38,13 +37,13 @@ namespace ConsoleApp
 
                         if (operacao == 1)
                         {
-                            Console.WriteLine("Informe o valor:");
+                            Console.WriteLine("Digite o valor:");
                             var valor = Convert.ToInt16(Console.ReadLine());
                             contaPoupanca.Sacar(valor);
                         }
                         else if (operacao == 2)
                         {
-                            Console.WriteLine("Informe o valor:");
+                            Console.WriteLine("Digite o valor:");
                             var valor = Convert.ToInt16(Console.ReadLine());
                             contaPoupanca.Depositar(valor);
                         }
@@ -58,7 +57,7 @@ namespace ConsoleApp
                         }
                         else
                         {
-                            Console.WriteLine("Opção inválida, digite novamente.");
+                            Console.WriteLine("Número inválido");
                         }
                     }
                 }
@@ -66,7 +65,6 @@ namespace ConsoleApp
                 {
                     while (true)
                     {
-                        Console.WriteLine("Escolha uma opção: ");
                         Console.WriteLine("1 - Sacar");
                         Console.WriteLine("2 - Depositar");
                         Console.WriteLine("3 - Saldo");
@@ -76,13 +74,13 @@ namespace ConsoleApp
 
                         if (operacao == 1)
                         {
-                            Console.WriteLine("Informe o valor:");
+                            Console.WriteLine("Digite o valor:");
                             var valor = Convert.ToInt16(Console.ReadLine());
                             contaCorrente.Sacar(valor);
                         }
                         else if (operacao == 2)
                         {
-                            Console.WriteLine("Informe o valor:");
+                            Console.WriteLine("Digite o valor:");
                             var valor = Convert.ToInt16(Console.ReadLine());
                             contaCorrente.Depositar(valor);
                         }
@@ -96,7 +94,7 @@ namespace ConsoleApp
                         }
                         else
                         {
-                            Console.WriteLine("Opção inválida, digite novamente.");
+                            Console.WriteLine("Número inválido");
                         }
                     }
                 }
@@ -106,7 +104,7 @@ namespace ConsoleApp
                 }
                 else
                 {
-                    Console.WriteLine("Opção inválida, digite novamente.");
+                    Console.WriteLine("Número inválido.");
                 }
             }
         }
